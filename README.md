@@ -4,13 +4,13 @@ This will cover day wise Golang training content.
 # Getting Started with Golang.
 
 ### Overview
-	- Introduction to Golang
-	- Installing Golang on Windows
-	- Installing Golang on MacOS
-	- Hello World! in Golang
-	- Golang vs C++
-	- Golang vs Java
-	- Golang vs Python
+	* Introduction to Golang
+	* Installing Golang on Windows
+	* Installing Golang on MacOS
+	* Hello World! in Golang
+	* Golang vs C++
+	* Golang vs Java
+	* Golang vs Python
 
 ### Fundamentals
 	Identifiers in Golang
