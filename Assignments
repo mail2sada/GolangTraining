@@ -1,0 +1,26 @@
+Assignment 1 – Create a Micro Finance Service  
+
+The Micro Finance Service should run on Go and should support the following functionality  
+
+Authentication (Can use any Authentication Method) 
+Create Account (Name/Location/PAN/Address/Contact Number/Sex/Nationality) 
+Update Account  
+Delete Account 
+Login/Logout 
+Transactions (Credit / Debit) 
+
+For the DB, you can maintain a connection pool (say max 10) and use the pool for all the transactions. 
+Tech to be used:  
+Redis to be used for Authentication Token (Generation/Validation) 
+DB – Any SQL DB  
+
+API (Application Programming Interface) Backend – Go Lang 
+
+
+Assignment 2 - Test Cases: 
+
+Write Unit Test cases for verifying Create/Delete Accounts 
+Write Unit Test cases for Verifying Login/Logout 
+Write Unit Test cases for Credit/Debit Transactions  
+Write Test Cases to Verify Connection Pool of DB CRUD (Create, Read, Update or Delete) operations.  
+
