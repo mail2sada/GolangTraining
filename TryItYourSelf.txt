@@ -1,0 +1,222 @@
+
+Binary Search: Searching an element using binary search method. 
+
+Count Zeros: Count the number of zeros in an array. 
+
+Floor of a number: largest element in an array smaller than or equal to x. 
+
+Index of extra element: Finding the index of the missing element which is present in the main array. 
+
+Kth smallest element: finding the Kth smallest element in a given array. 
+
+Majority element: Element appearing max number of times. 
+
+Missing Number: Guess the missing number in an array. 
+
+Peak element: Element with highest value. 
+
+Search element: Searching a given element in an array 
+
+Search element in sorted array: Searching for a given element in a sorted array. 
+
+Second highest element: Returning the second highest element in a given array. 
+
+Square root of a given number: Finding the square-root of a given number. 
+
+Sub-array sum: Finding a subarray whose sum is equal to a given value. 
+
+Sub-b array: Check if a given array is a subset of the main array. 
+
+Transition: Index at which change of values happens in an array.  
+
+Triplets sum zero: Find the triplets whose sum is equal to zero 
+
+Value equal to index: Find the element whose value is equal to its index. 
+
+Alternate elements: Return only the alternate elements in an array. 
+
+Intersection of arrays: Return the common elements between two arrays. 
+
+Array leader: Return the highest element of a given array. 
+
+Array rotate: Rotate an array with a specified number of elements. 
+
+Array wave: Return a sorted array in the form of a wave i.e., one small element and the next is greater. 
+
+Count pairs: Return pairs with the given sum. 
+
+Equilibrium point: The index where the left and right-side elements add up to the same sum. 
+
+Kadane's Algorithm: Using Kadanes's algorithm to find the maximum sum of elements of a sub array. 
+
+Min and Max: Finding the smallest and largest element in a given array 
+
+Minimum distance: The distance between two given elements in an unsorted array. 
+
+Palindrome element: Find if a given element in an array is palindrome or not 
+
+Search element: Return the index of a given element. 
+
+Union of two arrays: Return the non-repetitive elements of two arrays. 
+
+Check sorted: Check if a given array is sorted or not. 
+
+Max occurring element: Return the element that is occurring the maximum number of times. 
+
+Median of two arrays: Merge and sort two arrays and return the middle element. 
+
+Move zeros to end: Return an array with all the zeros moved to the right side. 
+
+Negative values to left: Return an array with all the negative values moved to the left. 
+
+Number divisible by 3: Return the element which is divisible by 3 in a given array. 
+
+Pythagorean Triplet: Return 1 if the given triplet forms a Pythagorean triplet. 
+
+Smallest subarray with sum: Return the smallest subarray with the given sum. 
+
+Anagram: Check if both the strings have the same elements. 
+
+First non-repeating character: Return the first non-repeating character of a given string. 
+
+IP address validation: Check if the given IP address is valid or not. 
+
+Longest palindrome substring: Print the longest palindromic substring in a given string. 
+
+Multiply two strings: Multiplying two given strings. 
+
+Permutation of string: Returning the value of permutation of a string. 
+
+Reverse without reversing each word: Reverse just the words of a sentence. 
+
+Roman to integer: Convert Roman numbers to integers. 
+
+Rotate a string: Rotating a string by the given number of characters. 
+
+Check if string present in a string: Return true if the given string contains a set of characters. 
+
+Count duplicates: Count the number of duplicate characters in a string. 
+
+First letter: Return the first letter of each word. 
+
+Isogram: Return true if the string has no repeating characters. 
+
+Max occurring: Return the character occurring maximum number of times in a string. 
+
+Remove duplicates: Remove the duplicate values in a string. 
+
+Run length decode: Print the Character the number of times the integer before it. 
+
+Run length encode: Print the number of times a character if found as integer before the character. 
+
+Sum of string: Print the sum of all characters of a string. 
+
+Extract numbers: Return the integers present in a string 
+
+First repeating character: Return the first duplicate character in a string. 
+
+Product even odd: Print if the product of two numbers is even or odd. 
+
+Remove special characters: Remove any special character in a string and print the remaining. 
+
+Reverse each word: Reverse each letter of all the words in a sentence 
+
+Sort string: Sort a string in alphabetical order. 
+
+Sort without function: Sort a string without using inbuilt function. 
+
+Subsequence: Return true if a string is a subsequence of another string. 
+
+Sum of two strings: Return the arithmetic sum of two strings. 
+
+Count alphabet: Return the number of alphabets in a given string. 
+
+Count last word: Return the count of characters in the last word of a string. 
+
+Longest word in dictionary: Return the longest word in a given dictionary. 
+
+Nearest multiple of 10: Return the nearest multiple of 10 of a given number. 
+
+Next even number: Return the next even number of a given number. 
+
+Pangram: Return true if the sentence contains all the 26 alphabets. 
+
+Remove vowels: Remove all the vowels from a given string. 
+
+Word with max frequency: Return the word occurring maximum number of times. 
+
+Three consecutive strings:  Remove a character if it is repeated 3 times consecutively. 
+
+Bubble sort: Sorting an array using bubble sort technique. 
+
+Combine the strings: Concatenate two strings 
+
+Merging unsorted: Merging two unsorted strings after sorting them. 
+
+Number of characters in a word: Return the number of characters in a string. 
+
+Number with d digit: In a list of numbers from 0 to n print the numbers with 'd' digit in it. 
+
+Sort 0,1,2: Sort the digits in ascending order 
+
+Even greater than odd: Return the largest numbers in even index and smallest numbers in odd index 
+
+Kth smallest element: Return the Kth smallest element in a given array. 
+
+nCr: Combination of given n and r. 
+
+Nth Fibonacci: Return the Nth digit of a Fibonacci series. 
+
+Nth term of GP: Return the Nth term of a geometric progression. 
+
+Power of numbers: Return the power of reverse of a number raised to the number. 
+
+Replace 0 with 5: Return string with 0 replaced with 5. 
+
+Sort all except one: Return sorted list except the given index value. 
+
+Sort half sorted: Return a sorted array which is half sorted. 
+
+Sum of series: Return the sum of a series of numbers. 
+
+Binary addition: Return the binary sum of given binary numbers. 
+
+Closest number: Return the closest number divisible by a given number. 
+
+LCM and GCD: Return the LCM and GCD of given numbers. 
+
+Multiplication table: Print the table of a given number. 
+
+Nth root of M: Return the Nth root of a given number. 
+
+Nth term of AP: Return the Nth term of given arithmetic progression. 
+
+Odd even: Print if the given number is odd or even. 
+
+Right most nonzero element: Print the rightmost nonzero number in the product of given numbers. 
+
+Sum of digit palindrome: Check if sum of all digits an array forms a palindrome. 
+
+Swap 2 numbers: Swap the values of two variables without using the 3rd variable. 
+
+Alternate elements: Return only the alternate elements in an array. 
+
+Intersection of arrays: Return the common elements between two arrays. 
+
+Array leader: Return the highest element of a given array. 
+
+Array rotate: Rotate an array with a specified number of elements. 
+
+Array wave: Return a sorted array in the form of a wave i.e., one small element and the next is greater. 
+
+Count pairs: Return pairs with the given sum. 
+
+Equilibrium point: The index where the left and right-side elements add up to the same sum. 
+
+Queue (enqueue, dequeue, peek, isEmpty, clear, count, copy) operations. 
+
+Linked list (insert, delete, recursive display, reverse using iteration, delete duplicates) 
+
+Circular linked list (insert, delete) operations. 
+
+Doubly linked list (insert, delete) operations. 
