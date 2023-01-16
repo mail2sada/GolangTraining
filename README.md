@@ -131,7 +131,8 @@ This will cover day wise Golang training content.
 	Sorting a Slice in Golang
 	Trimming a Slice in Golang
 	Splitting a Slice in Golang
-
+	Slice Sort, Reverse, Search Functions
+	
 ### Maps
 	Overview
 	Allowed Key types in a Map
@@ -150,7 +151,7 @@ This will cover day wise Golang training content.
 	Maps are referenced data types
 	Iterate over a map
 	Maps are not safe for concurrent use
-
+	Slice Sort, Reverse, Search Functions
 
 ### Pointers
 	Pointers
