@@ -19,19 +19,19 @@ func main() {
 
 	// Declaring and initializing a
 	// struct using a struct literal
-	a1 := Address{"Akshay", "Bangalore", 560045}
+	var a1 Address = Address{"Akshay", "Bangalore", 560045}
 
 	fmt.Println("Address1: ", a1)
 
 	// Naming fields while
 	// initializing a struct
-	a2 := Address{Name: "Anikaa", city: "Chennai",
+	var a2 = Address{Name: "Anikaa", city: "Chennai",
 		Pincode: 440001}
 
 	fmt.Println("Address2: ", a2)
 
 	// Uninitialized fields are set to
 	// their corresponding zero-value
-	a3 := Address{Name: "Delhi"}
+	a3 := Address{Name: "Delhi", city: "Bangalore", Pincode: 560102}
 	fmt.Println("Address3: ", a3)
 }
