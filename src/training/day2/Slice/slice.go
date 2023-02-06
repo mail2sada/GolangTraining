@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+// IMPORTANT FUNCTIONS IN SLICE
+
+// len, cap, append, copy
+
 func main() {
 	fmt.Println("Slice demonstration")
 
@@ -10,6 +14,8 @@ func main() {
 	var stringSlice []string = []string{"A", "B", "C", `D`, "E", "F"}
 
 	fmt.Println(intSlice)
+
+	fmt.Println(sliceInt)
 
 	fmt.Println(stringSlice)
 }
