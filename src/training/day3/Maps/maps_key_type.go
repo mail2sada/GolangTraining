@@ -54,4 +54,6 @@ func main() {
 
 	fmt.Println(bMap, nMap, sMap, pMap, structMap, aMap)
 
+	
+
 }
