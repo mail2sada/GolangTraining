@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 )
-
+//swithc demo...
 func main() {
 
 	var i int = 4

@@ -11,6 +11,8 @@ const (
 	West
 )
 
+
+
 func (d Direction) ToString()string{
 	res := ""
 	switch d {
@@ -28,7 +30,7 @@ func (d Direction) ToString()string{
 
 func main() {
 
-	fmt.Printf("Demo: Simulationing enum")
+	fmt.Printf("Demo: Simulationing enum",a)
 
 	d := North
 
