@@ -7,6 +7,9 @@ import (
 
 func main() {
 
+
+	
+
 	a := 0.0
 
 	fmt.Printf("Type of a is %T\n", a)

@@ -16,8 +16,8 @@ and — operators are from statements they are not expressions, so they are out 
 */
 
 func main() {
-	p := 34
-	q := 20
+	var p = 34
+	var q = 20
 
 	// Addition
 	result1 := p + q
