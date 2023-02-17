@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"runtime"
 	"time"
 )
 
@@ -35,6 +36,8 @@ func main() {
 
 	var c1 = make(chan int)
 	var c2 = make(chan int)
+
+	
 
 	go f1(c1)
 
