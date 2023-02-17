@@ -61,9 +61,12 @@ func handleHello(response http.ResponseWriter, request *http.Request) {
 
 	log.Printf("In handleHello...")
 
-	keys, _ := request.URL.Query()["id"]
+	//keys, _ := request.URL.Query()["id"]
 
-	id := keys[0]
+	// id := keys[0]
+
+	// fmt.Println(id)
+	id := request.FormValue("id")
 
 	fmt.Println(id)
 
