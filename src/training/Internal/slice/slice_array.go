@@ -15,7 +15,7 @@ func main() {
 	fmt.Println(cap(sliceFromArray))
 
 	sliceFromArray[7] = 100
-
+	
 	for i := 0; i <= len(intArray); i++ {
 		fmt.Println(intArray[i])
 	}
